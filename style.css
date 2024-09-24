@@ -96,9 +96,12 @@ body {
 .title {
     font-family: "Passion One", sans-serif;
     font-size: 50px;
-
+    margin: 10px 0;
 }
-
+span{
+    border-right: 1px solid white;
+    padding: 0 20px;
+}
 .dots {
     position: absolute;
     bottom: 20px;
